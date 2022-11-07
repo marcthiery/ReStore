@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Dl0V7NC5pVB+amm2gomNjPApVj2rGb4GNmihmjCGde/ELbTdgAHc7UbRasjg8hyuqVPj2AOLIPm0dajTRY4QIw==",
+  "dgSpecHash": "+pPVkxIg4q7KIjUp/cRc+nj83VoCvD54+aw5NeWT6ZW1IkpxHNIzAsPMH0+jsv+ZjoWS9LNkjciwNJacxg5wjQ==",
   "success": true,
-  "projectFilePath": "D:\\aaa_ma_fomation_dev\\Neil_Cummings\\ReStore\\API\\API.csproj",
+  "projectFilePath": "D:\\AAAA_Devenir_dev\\DotNet_React_Angular\\Neil_Cummings\\Learn to build an e-commerce store with .Net, React & Redux\\ReStore\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thier\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\thier\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
